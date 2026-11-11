@@ -1,0 +1,2 @@
+# Store the vCard bytes unchanged. GitHub Pages serves the git blob, and contact apps need CRLF.
+adnan-mansha.vcf -text
